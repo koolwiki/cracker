@@ -6,12 +6,12 @@ import (
 	"os"
 
 	g "github.com/golang/glog"
-	"github.com/ls0f/cracker"
+	"github.com/koolwiki/cracker"
 )
 
 var (
-	GitTag    = "2000.01.01.release"
-	BuildTime = "2000-01-01T00:00:00+0800"
+	GitTag    = "2018.10.10.release"
+	BuildTime = "2018-10-10T00:00:00+0800"
 )
 
 func main() {
